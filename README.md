@@ -3,12 +3,12 @@
 
 Sou formado em matemática e meu objetivo de carreira é ser um Data Science. 
 
-Hoje atuo com Analista de Dados, minhas atribuições são:
+Hoje atuo com Analista de Dados, minhas atribuições é:
 
-* Desenvolvo análises de dados voltada aos produtos da companhia 
-* Produtizo insights através da aplicação de engenharia de dados, transformando análises em soluções práticas.
-* Implemento datalakes para aprimorar a gestão e acessibilidade dos dados.  
-* Torno dados complexos acessíveis, comunicando efetivamente descobertas por meio de visualizações seja Dashboard ou Storytelling.
+* Desenvolver análises de dados voltada aos produtos da companhia 
+* Produtizar insights através da aplicação de engenharia de dados, transformando análises em soluções práticas.
+* Implementar no datalake para aprimorar a gestão e acessibilidade dos dados.  
+* Tornar dados complexos acessíveis, comunicando efetivamente descobertas por meio de visualizações seja Dashboard ou Storytelling.
 
 Valorizo a colaboração e a troca de ideias, acredito que é a melhor forma de alcançar soluções eficientes. Estou comprometido com aprendizado contínuo e ansioso para contribuir no Github.
 
